@@ -2,3 +2,4 @@
 Stacks
 Queue
 Arrays
+Linked lists
