@@ -3,4 +3,4 @@ Experiment 01 Basic Git commands
 Experiment 02 Branching and Merging
 30th October 2026 Friday
 We are working on community project
-Experiment 03 Stashing
+Experiment 03 Stashingmaster branch update
